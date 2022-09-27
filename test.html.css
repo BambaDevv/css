@@ -1,0 +1,74 @@
+.titre{
+    text-align: center;
+    color:maroon;
+    font-family: ;
+}
+.descendant-selector p{
+    color:maroon ;
+}
+.child-selector >div > p{
+    color: maroon;
+}
+h2 + P{
+    color: maroon;
+}
+a:link{
+    color: aqua;
+}
+a:hover{
+    color: maroon;
+}
+a:visited{
+    color: olivedrab;
+}
+body{
+    background-color: khaki;
+    
+    background-attachment:scroll;
+    background-repeat: repeat;
+}
+
+.para1{
+    padding: 70px;
+    border: 2px solid ;
+}
+.para2{
+    margin: ;
+    border: 2px solid;
+}
+#gmc{
+    width: 70px;
+    height: 70px;
+    
+}
+span{
+    display: block;
+}
+.apropos{
+    border: 2px solid;width: 100px;color: maroon;
+}
+.objectif{
+    border: 2px solid;width: 150px;color: maroon;
+}
+.travail{
+    border: 2px solid;width: 100px;color: maroon;
+}
+
+.contact{
+    border: 2px solid;width: 200px;color: maroon;
+}
+.ul1{
+    border: double;
+    box-shadow: 6px 6px 0px black;
+    ~}
+    footer{
+        text-align: center;
+    }
+    #conteneur{
+        display: flex;
+    }
+    .ki{
+        text-align: center;
+        margin: 100px;
+        margin-bottom: 50px;
+    }
